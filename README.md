@@ -24,15 +24,6 @@ This toolkit was created to streamline the process of:
 
 ---
 
-## 📂 Folder Structure
-```bash
-ParamFuzzing
-├── ParamSpider       # For passive/active parameter discovery
-├── TEOTW2            # Full web crawler and XSS scanner
-├── xss_check         # Parameter-based XSS scanner
-└── wordlists         # Customizable fuzzing wordlists
-```
-
 ## 🚀 Usage Examples
 ### 🕷️ Crawl Only
 ```bash
