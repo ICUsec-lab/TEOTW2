@@ -1,4 +1,4 @@
-# ParamFuzzing 🚀
+# TEOTW2 🚀
 **Web Parameter Discovery & Fuzzing Toolkit**
 
 ---
