@@ -37,6 +37,8 @@ python teotw2.py -u https://example.com -m get -d 2 --scope example.com --xss -w
 ``` bash
 python xss_scanner.py -u https://example.com -p param1,param2
 ```
+[the xss_check tool](https://github.com/ICUsec-lab/xss_check)
+
 
 ### 📦 Requirements
 ```bash
