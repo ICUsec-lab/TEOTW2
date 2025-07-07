@@ -56,12 +56,12 @@ python teotw3.py -u http://example.com/ --scope example.com --crawl --xss -o res
 
 #### Crawl Only 
 ```bash
-python teotw3.py -u http://testphp.vulnweb.com/ --scope vulnweb.com --crawl
+python teotw3.py -u http://example.com/ --scope example.com --crawl
 ```
 
 #### XSS Scan Only
 ```bash
-python teotw3.py -u "http://testphp.vulnweb.com/product.php?pic=1" --scope vulnweb.com --xss
+python teotw3.py -u "http://example.com/product.php?pic=1" --scope example.com --xss
 ```
 
 ## ✅ Notes:
